@@ -1,0 +1,24 @@
+DEVIATION REPORT
+
+Site: Bangalore API Manufacturing Plant
+Date of Occurrence: 27 September 2026
+
+Batch Number: API-24091
+Product: API-XYZ-500
+Source: Manufacturing Process
+
+Title: Temperature exceeded approved operating range
+
+During the granulation stage, the product temperature exceeded
+the approved operating range.
+
+Approved temperature range: 70°C – 75°C.
+Recorded temperature: 82°C.
+
+The temperature remained at 82°C for approximately 18 minutes
+before the operator identified the deviation and adjusted the
+process parameter.
+
+No equipment failure was observed.
+
+The batch has been placed on hold pending investigation.
